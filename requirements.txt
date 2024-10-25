@@ -1,0 +1,4 @@
+# Requirements for Streamlit Medical Info Chatbot
+streamlit
+nltk
+fuzzywuzzy
